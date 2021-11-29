@@ -12,7 +12,7 @@
         Spring Tool Suite (STS)
 ### Source Code
     * Option# 1 - Download and unzip the source repository
-    * Option# 2 - Clone it using Git: git clone - https://github.com/aaronlim3/Send-Email.git
+    * Option# 2 - Clone it using Git: git clone - https://github.com/aaronlim3/EmailSend.git
     * Compile the source code  from the root of the project using the following command
         mvn clean install
 
