@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.limac.emailsend.controller.EmailControllerTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.942 s - in com.limac.emailsend.controller.EmailControllerTest
